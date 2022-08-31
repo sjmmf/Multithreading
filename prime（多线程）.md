@@ -1,5 +1,4 @@
 ```c
-/*下面的代码在centos上跑起没得结果，还请学长指点一下*/
 
 #include <pthread.h>
 #include <stdio.h>
